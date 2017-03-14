@@ -1,0 +1,386 @@
+{
+  "watermark": "4",
+  "activities": [
+    {
+      "replyToId": "EGUmFca0Hgp3T91HXAmUdh|0000001",
+      "from": {
+        "name": "Exp Consumer APP",
+        "id": "ExpConsumerApp"
+      },
+      "id": "EGUmFca0Hgp3T91HXAmUdh|0000002",
+      "text": "Check out these shirt! Please let me know if you want to further filter these results, or if you want to see more like these!",
+      "type": "message",
+      "channelId": "directline",
+      "conversation": {
+        "id": "EGUmFca0Hgp3T91HXAmUdh"
+      },
+      "timestamp": "2017-03-14T12:08:22.9345461Z"
+    },
+    {
+      "attachments": [
+        {
+          "contentType": "application/vnd.microsoft.card.hero",
+          "content": {
+            "images": [
+              {
+                "url": "http://vision.synaptica.abzooba.com/imagem/recenter_noseg/?url=https://slimages.macysassets.com/is/image/MCY/products/7/optimized/8038207_fpx.tif&aspect=1.91x1"
+              }
+            ],
+            "buttons": [
+              {
+                "type": "postBack",
+                "title": "View on Macys",
+                "value": "VIEWITON::http://www.macys.com/shop/product/alfani-mens-slim-fit-stretch-red-optic-check-dress-shirt-only-at-macys?ID=3466360::WARN::Macys"
+              },
+              {
+                "type": "postBack",
+                "title": "View Similar",
+                "value": "VIEWSIMILAR::2_3466360_0001"
+              },
+              {
+                "type": "postBack",
+                "title": "More Options",
+                "value": "WISHLIST::2_3466360_0001::alfani men's slim-fit stretch red optic check dress shirt, only at macy's"
+              }
+            ],
+            "subtitle": "Price: $ 26",
+            "title": "Alfani - Alfani Mens Slim Fit Stretch Red Optic Check Dress Shirt Only At Macys"
+          }
+        },
+        {
+          "contentType": "application/vnd.microsoft.card.hero",
+          "content": {
+            "images": [
+              {
+                "url": "http://vision.synaptica.abzooba.com/imagem/recenter_noseg/?url=http://www.forever21.com/images/default_750/00230504-01.jpg&aspect=1.91x1"
+              }
+            ],
+            "buttons": [
+              {
+                "type": "postBack",
+                "title": "View on Forever 21",
+                "value": "VIEWITON::http://www.forever21.com/product/product.aspx?br=21men&category=mens-shirts&productid=2000230504::WARN::Forever 21"
+              },
+              {
+                "type": "postBack",
+                "title": "View Similar",
+                "value": "VIEWSIMILAR::f21_2000230504_0001"
+              },
+              {
+                "type": "postBack",
+                "title": "More Options",
+                "value": "WISHLIST::f21_2000230504_0001::slim-fit rose print shirt"
+              }
+            ],
+            "subtitle": "Price: $ 17",
+            "title": "Forever 21 - Slim Fit Rose Print Shirt"
+          }
+        },
+        {
+          "contentType": "application/vnd.microsoft.card.hero",
+          "content": {
+            "images": [
+              {
+                "url": "http://vision.synaptica.abzooba.com/imagem/recenter_noseg/?url=https://slimages.macysassets.com/is/image/MCY/products/4/optimized/8254964_fpx.tif&aspect=1.91x1"
+              }
+            ],
+            "buttons": [
+              {
+                "type": "postBack",
+                "title": "View on Macys",
+                "value": "VIEWITON::http://www.macys.com/shop/product/tommy-hilfiger-mens-capote-shirt?ID=2646678::WARN::Macys"
+              },
+              {
+                "type": "postBack",
+                "title": "View Similar",
+                "value": "VIEWSIMILAR::2_2646678_0003"
+              },
+              {
+                "type": "postBack",
+                "title": "More Options",
+                "value": "WISHLIST::2_2646678_0003::tommy hilfiger men's capote shirt"
+              }
+            ],
+            "subtitle": "Price: $ 29",
+            "title": "Tommy Hilfiger - Tommy Hilfiger Mens Capote Shirt"
+          }
+        },
+        {
+          "contentType": "application/vnd.microsoft.card.hero",
+          "content": {
+            "images": [
+              {
+                "url": "http://vision.synaptica.abzooba.com/imagem/recenter_noseg/?url=https://slimages.macysassets.com/is/image/MCY/products/8/optimized/2140988_fpx.tif&aspect=1.91x1"
+              }
+            ],
+            "buttons": [
+              {
+                "type": "postBack",
+                "title": "View on Macys",
+                "value": "VIEWITON::http://www.macys.com/shop/product/geoffrey-beene-mens-fitted-no-iron-stretch-sateen-dress-shirt?ID=1285001::WARN::Macys"
+              },
+              {
+                "type": "postBack",
+                "title": "View Similar",
+                "value": "VIEWSIMILAR::2_1285001_0005"
+              },
+              {
+                "type": "postBack",
+                "title": "More Options",
+                "value": "WISHLIST::2_1285001_0005::geoffrey beene men's fitted no-iron stretch sateen dress shirt"
+              }
+            ],
+            "subtitle": "Price: $ 32",
+            "title": "Geoffrey Beene - Geoffrey Beene Mens Fitted No Iron Stretch Sateen Dress Shirt"
+          }
+        },
+        {
+          "contentType": "application/vnd.microsoft.card.hero",
+          "content": {
+            "images": [
+              {
+                "url": "http://vision.synaptica.abzooba.com/imagem/recenter_noseg/?url=https://slimages.macysassets.com/is/image/MCY/products/1/optimized/8045751_fpx.tif&aspect=1.91x1"
+              }
+            ],
+            "buttons": [
+              {
+                "type": "postBack",
+                "title": "View on Macys",
+                "value": "VIEWITON::http://www.macys.com/shop/product/geoffrey-beene-mens-classic-fit-wrinkle-free-sateen-dress-shirt?ID=1285000::WARN::Macys"
+              },
+              {
+                "type": "postBack",
+                "title": "View Similar",
+                "value": "VIEWSIMILAR::2_1285000_0008"
+              },
+              {
+                "type": "postBack",
+                "title": "More Options",
+                "value": "WISHLIST::2_1285000_0008::geoffrey beene men's classic-fit wrinkle-free sateen dress shirt"
+              }
+            ],
+            "subtitle": "Price: $ 27",
+            "title": "Geoffrey Beene - Geoffrey Beene Mens Classic Fit Wrinkle Free Sateen Dress Shirt"
+          }
+        },
+        {
+          "contentType": "application/vnd.microsoft.card.hero",
+          "content": {
+            "images": [
+              {
+                "url": "http://vision.synaptica.abzooba.com/imagem/recenter_noseg/?url=https://slimages.macysassets.com/is/image/MCY/products/2/optimized/3936462_fpx.tif&aspect=1.91x1"
+              }
+            ],
+            "buttons": [
+              {
+                "type": "postBack",
+                "title": "View on Macys",
+                "value": "VIEWITON::http://www.macys.com/shop/product/ryan-seacrest-distinction-mens-slim-fit-non-iron-wine-dress-shirt-only-at-macys?ID=2879135::WARN::Macys"
+              },
+              {
+                "type": "postBack",
+                "title": "View Similar",
+                "value": "VIEWSIMILAR::2_2879135_0001"
+              },
+              {
+                "type": "postBack",
+                "title": "More Options",
+                "value": "WISHLIST::2_2879135_0001::ryan seacrest distinction men's slim-fit non-iron wine dress shirt, only at macy's"
+              }
+            ],
+            "subtitle": "Price: $ 33",
+            "title": "Ryan Seacrest Distinction - Ryan Seacrest Distinction Mens Slim Fit Non Iron Wine Dress Shirt Only At Macys"
+          }
+        },
+        {
+          "contentType": "application/vnd.microsoft.card.hero",
+          "content": {
+            "images": [
+              {
+                "url": "http://vision.synaptica.abzooba.com/imagem/recenter_noseg/?url=https://slimages.macysassets.com/is/image/MCY/products/3/optimized/8217243_fpx.tif&aspect=1.91x1"
+              }
+            ],
+            "buttons": [
+              {
+                "type": "postBack",
+                "title": "View on Macys",
+                "value": "VIEWITON::http://www.macys.com/shop/product/affliction-mens-hail-storm-plaid-cotton-shirt?ID=4390713::WARN::Macys"
+              },
+              {
+                "type": "postBack",
+                "title": "View Similar",
+                "value": "VIEWSIMILAR::2_4390713_0001"
+              },
+              {
+                "type": "postBack",
+                "title": "More Options",
+                "value": "WISHLIST::2_4390713_0001::affliction men's hail storm plaid cotton shirt "
+              }
+            ],
+            "subtitle": "Price: $ 88",
+            "title": "Affliction - Affliction Mens Hail Storm Plaid Cotton Shirt"
+          }
+        },
+        {
+          "contentType": "application/vnd.microsoft.card.hero",
+          "content": {
+            "images": [
+              {
+                "url": "http://vision.synaptica.abzooba.com/imagem/recenter_noseg/?url=https://slimages.macysassets.com/is/image/MCY/products/7/optimized/3814797_fpx.tif&aspect=1.91x1"
+              }
+            ],
+            "buttons": [
+              {
+                "type": "postBack",
+                "title": "View on Macys",
+                "value": "VIEWITON::http://www.macys.com/shop/product/levis-mens-paulie-oxford-brushed-shirt?ID=2958046::WARN::Macys"
+              },
+              {
+                "type": "postBack",
+                "title": "View Similar",
+                "value": "VIEWSIMILAR::2_2958046_0003"
+              },
+              {
+                "type": "postBack",
+                "title": "More Options",
+                "value": "WISHLIST::2_2958046_0003::levi's men's paulie oxford brushed shirt "
+              }
+            ],
+            "subtitle": "Price: $ 29",
+            "title": "Levis - Levis Mens Paulie Oxford Brushed Shirt"
+          }
+        },
+        {
+          "contentType": "application/vnd.microsoft.card.hero",
+          "content": {
+            "images": [
+              {
+                "url": "http://vision.synaptica.abzooba.com/imagem/recenter_noseg/?url=https://slimages.macysassets.com/is/image/MCY/products/7/optimized/8283937_fpx.tif&aspect=1.91x1"
+              }
+            ],
+            "buttons": [
+              {
+                "type": "postBack",
+                "title": "View on Macys",
+                "value": "VIEWITON::http://www.macys.com/shop/product/tommy-hilfiger-mens-delaware-brush-print-cotton-shirt?ID=4429021::WARN::Macys"
+              },
+              {
+                "type": "postBack",
+                "title": "View Similar",
+                "value": "VIEWSIMILAR::2_4429021_0002"
+              },
+              {
+                "type": "postBack",
+                "title": "More Options",
+                "value": "WISHLIST::2_4429021_0002::tommy hilfiger men's delaware brush print cotton shirt"
+              }
+            ],
+            "subtitle": "Price: $ 69",
+            "title": "Tommy Hilfiger - Tommy Hilfiger Mens Delaware Brush Print Cotton Shirt"
+          }
+        },
+        {
+          "contentType": "application/vnd.microsoft.card.hero",
+          "content": {
+            "images": [
+              {
+                "url": "http://vision.synaptica.abzooba.com/imagem/recenter_noseg/?url=https://slimages.macysassets.com/is/image/MCY/products/8/optimized/8246958_fpx.tif&aspect=1.91x1"
+              }
+            ],
+            "buttons": [
+              {
+                "type": "postBack",
+                "title": "View on Macys",
+                "value": "VIEWITON::http://www.macys.com/shop/product/polo-ralph-lauren-mens-plaid-linen-sport-shirt?ID=2874807::WARN::Macys"
+              },
+              {
+                "type": "postBack",
+                "title": "View Similar",
+                "value": "VIEWSIMILAR::2_2874807_0001"
+              },
+              {
+                "type": "postBack",
+                "title": "More Options",
+                "value": "WISHLIST::2_2874807_0001::polo ralph lauren men's plaid linen sport shirt"
+              }
+            ],
+            "subtitle": "Price: $ 140",
+            "title": "Polo Ralph Lauren - Polo Ralph Lauren Mens Plaid Linen Sport Shirt"
+          }
+        }
+      ],
+      "replyToId": "EGUmFca0Hgp3T91HXAmUdh|0000001",
+      "attachmentLayout": "carousel",
+      "from": {
+        "name": "Exp Consumer APP",
+        "id": "ExpConsumerApp"
+      },
+      "id": "EGUmFca0Hgp3T91HXAmUdh|0000003",
+      "type": "message",
+      "channelId": "directline",
+      "conversation": {
+        "id": "EGUmFca0Hgp3T91HXAmUdh"
+      },
+      "timestamp": "2017-03-14T12:08:24.0010989Z"
+    },
+    {
+      "attachments": [
+        {
+          "contentType": "application/vnd.microsoft.card.hero",
+          "content": {
+            "buttons": [
+              {
+                "type": "imBack",
+                "title": "Show More",
+                "value": "Show More"
+              },
+              {
+                "type": "imBack",
+                "title": "Add Filters",
+                "value": "Add Filters"
+              },
+              {
+                "type": "imBack",
+                "title": "Edit Filters",
+                "value": "Edit Filters"
+              },
+              {
+                "type": "imBack",
+                "title": "New Query",
+                "value": "New Query"
+              },
+              {
+                "type": "imBack",
+                "title": "Back to Search",
+                "value": "Back to Search"
+              },
+              {
+                "type": "imBack",
+                "title": "Start Over",
+                "value": "Start Over"
+              },
+              {
+                "type": "imBack",
+                "title": "Help",
+                "value": "Help"
+              }
+            ]
+          }
+        }
+      ],
+      "replyToId": "EGUmFca0Hgp3T91HXAmUdh|0000001",
+      "from": {
+        "name": "Exp Consumer APP",
+        "id": "ExpConsumerApp"
+      },
+      "id": "EGUmFca0Hgp3T91HXAmUdh|0000004",
+      "text": "You can choose to add filters to refine your search results.",
+      "type": "message",
+      "channelId": "directline",
+      "conversation": {
+        "id": "EGUmFca0Hgp3T91HXAmUdh"
+      },
+      "timestamp": "2017-03-14T12:08:24.2625918Z"
+    }
+  ]
+}
